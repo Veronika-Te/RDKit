@@ -1,0 +1,11 @@
+SMILES Name 
+c1ccc(C[N@H+]2CC[C@H](CCOc3ccc(-c4ccccc4)nn3)CC2)cc1 Mol 0
+c1ccc(C[N@H+]2CC[C@H](CCSc3ccc(-c4ccccc4)nn3)CC2)cc1 Mol 1
+O=C(C[C@H]1CC[N@H+](Cc2ccccc2)CC1)Nc1ccc(-c2ccccc2)nn1 Mol 2
+O=C(CN1CC[NH+](Cc2ccccc2)CC1)Nc1ccc(-c2ccccc2)nn1 Mol 3
+O=C(C[N@H+]1CC[C@H](Cc2ccccc2)CC1)Nc1ccc(-c2ccccc2)nn1 Mol 4
+c1ccc(C[NH+]2CCN(CCNc3ccc(-c4ccccc4)nn3)CC2)cc1 Mol 5
+c1ccc(C[C@H]2CC[N@H+](CCNc3ccc(-c4ccccc4)nn3)CC2)cc1 Mol 6
+O=C(CNc1ccc(-c2ccccc2)nn1)N1CC[NH+](Cc2ccccc2)CC1 Mol 7
+O=C(CNc1ccc(-c2ccccc2)nn1)N1CCC(Cc2ccccc2)CC1 Mol 8
+c1ccc(-c2ccc(NCC[NH+]3CCOCC3)nn2)cc1 Mol 9
